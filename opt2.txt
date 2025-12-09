@@ -1,3 +1,2 @@
 mode=2;  
-time=86239;  
 playnum=9;  
