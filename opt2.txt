@@ -1,7 +1,3 @@
 mode=2;  
-<<<<<<< HEAD
 time=480; 
-=======
-time=120; 
->>>>>>> 4e0cf9e1bf6e4463a0ce0e56ac9f6d536b70f446
 playnum=12;  
