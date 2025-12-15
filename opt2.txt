@@ -1,4 +1,4 @@
 mode=2;  
-time=1219; 
-time2=301; 
+time=2419; 
+time2=501; 
 playnum=12;  
