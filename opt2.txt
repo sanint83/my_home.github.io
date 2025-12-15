@@ -1,4 +1,9 @@
 mode=2;  
+<<<<<<< HEAD
 time=619; 
 time2=101; 
+=======
+time=172937; 
+time2=21600; 
+>>>>>>> ddaec47ba4849e84cee2e792ce13dd70660474af
 playnum=12;  
