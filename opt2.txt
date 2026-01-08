@@ -1,4 +1,4 @@
 mode=2;  
-time=1800; 
-time2=300; 
+time=54000; 
+time2=18000; 
 playnum=6;  
